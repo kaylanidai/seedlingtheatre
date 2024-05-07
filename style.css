@@ -316,7 +316,7 @@ p {
 
 .footer-link:hover {
   text-decoration: underline;
-    color: #F5F3EC;
+text-decoration-color: red;
 }
 
 .footer-main-logo {
